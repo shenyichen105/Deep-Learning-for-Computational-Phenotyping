@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Methodology}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Feature Embedding Learning via Word2Vec}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{CNN Risk Prediction Model}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Implementation}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Data Source}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Implementation Details and Evaluation}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Results}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Risk Prediction}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Interpretation of Patient Representation and Phenotyping}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Discussion}{}% 11
+\BOOKMARK [1][-]{section.6}{References}{}% 12
